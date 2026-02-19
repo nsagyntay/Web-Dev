@@ -21,11 +21,16 @@ addBtn.addEventListener("click", function() {
     taskList.appendChild(li);
 
     checkbox.addEventListener("change", function() {
+        const isConfirm = confirm("Is it important?")
+        if(isConfirm){
         span.classList.toggle("done");
+        }
     });
 
     deleteBtn.addEventListener("click", function() {
+    if(isConfirm){
         taskList.removeChild(li);
+        }
     });
 
     input.value = "";
