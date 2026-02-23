@@ -1,0 +1,13 @@
+
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.product-grid + div p {
+  text-align: center;
+  font-size: 1.1rem;
+  color: #999;
+}
