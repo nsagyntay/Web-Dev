@@ -1,0 +1,12 @@
+<div class="container">
+  <h2>Photos</h2>
+
+  <div class="grid">
+    <div *ngFor="let photo of photos" class="photo-card">
+      <img [src]="photo.thumbnailUrl" alt="{{ photo.title }}">
+      <p>{{ photo.title }}</p>
+    </div>
+  </div>
+
+  <a routerLink="/albums" class="back-btn">Back</a>
+</div>
