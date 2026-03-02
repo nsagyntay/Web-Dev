@@ -4,22 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7782fbd-9f1f-4285-9ecc-6c1ccb825303" name="Changes" comment="commit lab4">
-      <change afterPath="$PROJECT_DIR$/lab5/online-store/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/online-store/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/online-store/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/online-store/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/online-store/src/app/category.model.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/online-store/src/app/product-list/product-item.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/online-store/src/app/product-list/product-item.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/online-store/src/app/product-list/product-item.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/online-store/src/app/product-list/product-list.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/online-store/src/app/product-list/product-list.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/online-store/src/app/product-list/product-list.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/online-store/src/app/product.model.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/online-store/src/app/product.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/online-store/src/main.ts" afterDir="false" />
+    <list default="true" id="d7782fbd-9f1f-4285-9ecc-6c1ccb825303" name="Changes" comment="commit lab5">
+      <change afterPath="$PROJECT_DIR$/lab6/album-browser/src/app/albums/albums.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/album-browser/src/app/albums/albums.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/album-browser/src/app/albums/albums.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/album-browser/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/album-browser/src/app/models/album.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/album-browser/src/app/models/photo.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/album-browser/src/app/services/album.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/online-store/src/app/product-list/product-list.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/online-store/src/app/product-list/product-list.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/online-store/src/app/product-list/product-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/online-store/src/app/product-list/product-list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/online-store/src/app/product-list/product-item.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/online-store/src/app/product-list/product-item.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/online-store/src/app/product-list/product-item.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/online-store/src/app/product-list/product-item.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,11 +80,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lab6/album-browser/src/app" />
       <recent name="$PROJECT_DIR$/lab5/online-store/src/app" />
       <recent name="$PROJECT_DIR$/lab5/online-store/src" />
       <recent name="$PROJECT_DIR$/lab4/online-store/src/app/product-list" />
       <recent name="$PROJECT_DIR$/lab4" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -169,7 +166,23 @@
       <option name="project" value="LOCAL" />
       <updated>1771786215459</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit lab5">
+      <option name="closed" value="true" />
+      <created>1771857394988</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1771857394988</updated>
+    </task>
+    <task id="LOCAL-00010" summary="commit lab5">
+      <option name="closed" value="true" />
+      <created>1771857438568</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1771857438568</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,6 +202,7 @@
     <MESSAGE value="commit lab2" />
     <MESSAGE value="commit lab3" />
     <MESSAGE value="commit lab4" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit lab4" />
+    <MESSAGE value="commit lab5" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit lab5" />
   </component>
 </project>

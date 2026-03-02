@@ -19,6 +19,9 @@ export class ProductItemComponent {
   like() {
     this.product.likes++;
   }
+  removelike(){
+    this.product.likes--;
+    }
 
   remove() {
     if (confirm('Are you sure?')) {
