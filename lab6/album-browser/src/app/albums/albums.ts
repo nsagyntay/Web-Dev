@@ -18,15 +18,24 @@ export class AlbumsComponent implements OnInit {
   constructor(private albumService: AlbumService) {}
 
   ngOnInit(): void {
+  const saved = localStorage.getItem('albums');
+
+  if (saved) {
+    this.albums = JSON.parse(saved);
+    this.loading = false;
+  } else {
     this.albumService.getAlbums().subscribe(data => {
       this.albums = data;
       this.loading = false;
+      localStorage.setItem('albums', JSON.stringify(this.albums));
     });
   }
+}
 
   deleteAlbum(id: number): void {
-    this.albumService.deleteAlbum(id).subscribe(() => {
-      this.albums = this.albums.filter(a => a.id !== id);
-    });
-  }
+  this.albumService.deleteAlbum(id).subscribe(() => {
+    this.albums = this.albums.filter(a => a.id !== id);
+    localStorage.setItem('albums', JSON.stringify(this.albums));
+  });
+}
 }
