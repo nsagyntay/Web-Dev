@@ -3,7 +3,7 @@
 
   <div class="grid">
     <div *ngFor="let photo of photos" class="photo-card">
-      <img [src]="photo.thumbnailUrl" alt="{{ photo.title }}">
+      <img [src]="photo" alt="{{ photo.title }}">
       <p>{{ photo.title }}</p>
     </div>
   </div>
