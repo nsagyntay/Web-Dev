@@ -4,117 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7782fbd-9f1f-4285-9ecc-6c1ccb825303" name="Changes" comment="lab6">
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/list-1/common-end.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/list-1/first_last6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/list-1/has23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/list-1/make_ends.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/list-1/make_pi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/list-1/max_end3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/list-1/middle_way.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/list-1/reverse3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/list-1/rotate_left3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/list-1/same_first_last.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/list-1/sum2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/list-1/sum3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/list-2/big_diff.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/list-2/centered_average.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/list-2/count_evens.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/list-2/has22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/list-2/sum13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/list-2/sum67.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/string-1/combo_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/string-1/extra_end.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/string-1/first_half.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/string-1/first_two.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/string-1/hello_name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/string-1/left2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/string-1/make_abba.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/string-1/make_out_word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/string-1/make_tags.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/string-1/non_start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/string-1/without_end.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/string-2/cat_dog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/string-2/count_code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/string-2/count_hi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/string-2/double_char.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/string-2/end_other.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/string-2/xyz_there.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/warmup-1/diff21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/warmup-1/front3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/warmup-1/front_back.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/warmup-1/makes10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/warmup-1/missing_char.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/warmup-1/monkey_trouble.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/warmup-1/near_hundred.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/warmup-1/not_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/warmup-1/parrot_trouble.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/warmup-1/pos-neg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/warmup-1/sleep_in.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/warmup-1/sum_double.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/warmup-2/array123.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/warmup-2/array_count9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/warmup-2/array_front9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/warmup-2/front_times.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/warmup-2/last2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/warmup-2/string_bits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/warmup-2/string_match.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/warmup-2/string_splosion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/codingbat/warmup-2/string_times.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/hackerrank/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/hackerrank/10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/hackerrank/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/hackerrank/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/hackerrank/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/hackerrank/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/hackerrank/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/hackerrank/7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/hackerrank/8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/hackerrank/9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/arrays/A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/arrays/B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/arrays/C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/arrays/D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/arrays/E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/arrays/F.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/arrays/G.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/cond-stat/A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/cond-stat/B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/cond-stat/C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/cond-stat/D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/cond-stat/E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/functions/A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/functions/B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/functions/C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/input-output/A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/input-output/B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/input-output/C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/input-output/D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/input-output/E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/loops/for/A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/loops/for/B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/loops/for/C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/loops/for/D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/loops/for/E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/loops/for/F" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/loops/for/F.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/loops/for/G.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/loops/for/H.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/loops/for/I.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/loops/for/J.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/loops/for/K.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/loops/for/L.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/loops/for/M.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/loops/while/A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/loops/while/B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/loops/while/C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/loops/while/D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task1/informatics/loops/while/E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task2/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task2/models.py" afterDir="false" />
+    <list default="true" id="d7782fbd-9f1f-4285-9ecc-6c1ccb825303" name="Changes" comment="lab7">
+      <change afterPath="$PROJECT_DIR$/lab8/shop_back/api/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Web-Dev.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Web-Dev.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab6/album-browser/src/app/album-photos/album-photos.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/album-browser/src/app/album-photos/album-photos.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,20 +56,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/nazerkesagyntay/Desktop/Web-Dev/lab7/task1/codingbat",
-    "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.models.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nazerkesagyntay/Desktop/Web-Dev/lab7/task1/codingbat&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/lab7/task1/codingbat" />
@@ -308,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772619624521</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="lab7">
+      <option name="closed" value="true" />
+      <created>1773754153436</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1773754153436</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -331,6 +234,7 @@
     <MESSAGE value="commit lab5" />
     <MESSAGE value="commit lab6" />
     <MESSAGE value="lab6" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab6" />
+    <MESSAGE value="lab7" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab7" />
   </component>
 </project>
